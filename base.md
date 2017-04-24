@@ -6,10 +6,10 @@
 </head>
   <body>
   <ul>
-  <li><a href= "/homepage.asp"> Home </a></li>
-  <li><a href="/services.asp">Services</a></li>
-  <li><a href="/order.asp" > Order </a></li>
-  <li><a href="/contact.asp">Contact</a></li>
+  <li><a href= "/homepage.html"> Home </a></li>
+  <li><a href="/services.html">Services</a></li>
+  <li><a href="/order.html"> Order </a></li>
+  <li><a href="/contact.html">Contact</a></li>
 </ul>
     <header>
     <h1>3D Printing STL</h1>
